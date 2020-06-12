@@ -5,8 +5,8 @@ All in one tool for modding Huawei router specifically for B618 model.
 
 # External tool included
 
-  - Balong USB loader (English version)
-  - Balong Flasher (English version)
+  - Balong USB loader (Modded English version)
+  - Balong Flasher (Modded English version)
   - Android ADB
 
 # Credit
